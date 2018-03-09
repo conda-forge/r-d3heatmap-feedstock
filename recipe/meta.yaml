@@ -1,4 +1,4 @@
-{% set version = '0.6.1.1' %}
+{% set version = "0.6.1.2" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/d3heatmap_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/d3heatmap/d3heatmap_{{ version }}.tar.gz
-  sha256: 96cb28f5a9c3545df22b18e6f7ac3c461acbc34f14ac185282785e9ceea5a177
+  sha256: b3ce5dc60d5668a5a5ad087331d816a6682c92a89d6292788574fecf814491c5
 
 build:
   number: 0
