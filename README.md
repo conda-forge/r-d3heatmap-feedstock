@@ -1,11 +1,11 @@
-About r-d3heatmap
-=================
+About r-d3heatmap-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-d3heatmap-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rstudio/d3heatmap
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-d3heatmap-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create interactive heat maps that are usable from the R console, in the 'RStudio' viewer pane, in 'R Markdown' documents, and in 'Shiny' apps. Hover the mouse pointer over a cell to show details, drag a rectangle to zoom, and click row/column labels to highlight.
 
